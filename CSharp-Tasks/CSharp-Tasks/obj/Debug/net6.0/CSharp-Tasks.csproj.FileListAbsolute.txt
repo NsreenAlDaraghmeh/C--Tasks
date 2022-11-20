@@ -1,0 +1,15 @@
+C:\Users\S\source\repos\CSharp-Tasks\CSharp-Tasks\bin\Debug\net6.0\CSharp-Tasks.exe
+C:\Users\S\source\repos\CSharp-Tasks\CSharp-Tasks\bin\Debug\net6.0\CSharp-Tasks.deps.json
+C:\Users\S\source\repos\CSharp-Tasks\CSharp-Tasks\bin\Debug\net6.0\CSharp-Tasks.runtimeconfig.json
+C:\Users\S\source\repos\CSharp-Tasks\CSharp-Tasks\bin\Debug\net6.0\CSharp-Tasks.dll
+C:\Users\S\source\repos\CSharp-Tasks\CSharp-Tasks\bin\Debug\net6.0\CSharp-Tasks.pdb
+C:\Users\S\source\repos\CSharp-Tasks\CSharp-Tasks\obj\Debug\net6.0\CSharp-Tasks.csproj.AssemblyReference.cache
+C:\Users\S\source\repos\CSharp-Tasks\CSharp-Tasks\obj\Debug\net6.0\CSharp-Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S\source\repos\CSharp-Tasks\CSharp-Tasks\obj\Debug\net6.0\CSharp-Tasks.AssemblyInfoInputs.cache
+C:\Users\S\source\repos\CSharp-Tasks\CSharp-Tasks\obj\Debug\net6.0\CSharp-Tasks.AssemblyInfo.cs
+C:\Users\S\source\repos\CSharp-Tasks\CSharp-Tasks\obj\Debug\net6.0\CSharp-Tasks.csproj.CoreCompileInputs.cache
+C:\Users\S\source\repos\CSharp-Tasks\CSharp-Tasks\obj\Debug\net6.0\CSharp-Tasks.dll
+C:\Users\S\source\repos\CSharp-Tasks\CSharp-Tasks\obj\Debug\net6.0\refint\CSharp-Tasks.dll
+C:\Users\S\source\repos\CSharp-Tasks\CSharp-Tasks\obj\Debug\net6.0\CSharp-Tasks.pdb
+C:\Users\S\source\repos\CSharp-Tasks\CSharp-Tasks\obj\Debug\net6.0\CSharp-Tasks.genruntimeconfig.cache
+C:\Users\S\source\repos\CSharp-Tasks\CSharp-Tasks\obj\Debug\net6.0\ref\CSharp-Tasks.dll
