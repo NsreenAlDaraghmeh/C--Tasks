@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\S\\source\\repos\\CSharp-Tasks\\CSharp-Tasks\\CSharp-Tasks.csproj": {}
+    "C:\\Users\\S\\C--Tasks\\CSharp-Tasks\\CSharp-Tasks\\CSharp-Tasks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\S\\source\\repos\\CSharp-Tasks\\CSharp-Tasks\\CSharp-Tasks.csproj": {
+    "C:\\Users\\S\\C--Tasks\\CSharp-Tasks\\CSharp-Tasks\\CSharp-Tasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\S\\source\\repos\\CSharp-Tasks\\CSharp-Tasks\\CSharp-Tasks.csproj",
+        "projectUniqueName": "C:\\Users\\S\\C--Tasks\\CSharp-Tasks\\CSharp-Tasks\\CSharp-Tasks.csproj",
         "projectName": "CSharp-Tasks",
-        "projectPath": "C:\\Users\\S\\source\\repos\\CSharp-Tasks\\CSharp-Tasks\\CSharp-Tasks.csproj",
+        "projectPath": "C:\\Users\\S\\C--Tasks\\CSharp-Tasks\\CSharp-Tasks\\CSharp-Tasks.csproj",
         "packagesPath": "C:\\Users\\S\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\S\\source\\repos\\CSharp-Tasks\\CSharp-Tasks\\obj\\",
+        "outputPath": "C:\\Users\\S\\C--Tasks\\CSharp-Tasks\\CSharp-Tasks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\S\\AppData\\Roaming\\NuGet\\NuGet.Config",
