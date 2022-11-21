@@ -104,7 +104,27 @@ namespace ConsoleApp1
             int hours = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Input minutes ");
             int minutes = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine( " Total : "+((hours*60)+minutes)+"Minutes");
+            Console.WriteLine( " Total : "+((hours*60)+minutes)+" Minutes");
+
+            //task7
+            Console.WriteLine("Input minutes ");
+            int minute = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine($"{minute/60} hours ,{minute%60} minutes ");
+
+            //task8
+            Console.WriteLine("Input 5 element of different sentence with different length .");
+            string A =  Console.ReadLine();
+            string B =  Console.ReadLine();
+            string C =  Console.ReadLine();
+            string D =  Console.ReadLine();
+            string E =  Console.ReadLine();
+            string[] array = { A, B, C, D, E };
+            Console.WriteLine(array[0].Substring(0, 4));
+            Console.WriteLine(array[1].Substring(0, 4));
+            Console.WriteLine(array[2].Substring(0, 4));
+            Console.WriteLine(array[3].Substring(0, 4));
+            Console.WriteLine(array[4].Substring(0, 4));
+
         }
     }
 }
