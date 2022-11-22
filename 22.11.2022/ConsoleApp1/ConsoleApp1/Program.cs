@@ -140,7 +140,8 @@ namespace ConsoleApp1
                 }
                 sum2 += input3[i];
             }
-           Console.WriteLine("Avg = "+sum2/(sum2-zeros));
+            double avg = sum2 / (input3.Length - zeros);
+           Console.WriteLine("Avg = "+ avg);
         }
     }
 }
