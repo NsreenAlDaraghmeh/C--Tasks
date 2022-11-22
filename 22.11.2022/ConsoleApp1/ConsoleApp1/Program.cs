@@ -84,14 +84,15 @@ namespace ConsoleApp1
             Console.WriteLine("The pattern like:");
             for(int p=0;p<4;p++)
             {
-                for(int l = 4 - p; l > 0; l--)
+                for (int l = 4 - p; l > 0; l--)
                 {
                     Console.Write(" ");
                 }
-                for(int t = 0; t <= p; t++)
+                for (int t = 0; t <= p; t++)
                 {
-                    Console.Write("*"+" ");
+                    Console.Write("*" + " ");
                 }
+
                 Console.Write("\n");
 
             }
@@ -113,6 +114,33 @@ namespace ConsoleApp1
                 }
                 Console.Write("\n");
             }
+            Console.WriteLine("...............................................................");
+            //task8
+            Console.WriteLine("task8");
+            string input = Console.ReadLine();
+            string[] input2 = input.Split(',');
+            int[] input3 = new int[(input2.Length)];
+            for (int i = 0; i < input2.Length; i++)
+            {
+                input3[i] = Convert.ToInt32(input2[i]);
+            }
+
+            int sum2 = 0;
+            int zeros = 0;
+           for(int i = 1; i < input3.Length; i++)
+            {
+                for(int j = 0; j < i; j++)
+                {
+                    while (input3[i] == input3[j])
+                    {
+                        input3[j] = 0;
+                        zeros++;
+                        break;
+                    }
+                }
+                sum2 += input3[i];
+            }
+           Console.WriteLine("Avg = "+sum2/(sum2-zeros));
         }
     }
 }
