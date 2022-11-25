@@ -31,17 +31,27 @@ namespace ConsoleApp1
             Console.WriteLine("The index of Watermelon is : " + index2);
             Console.WriteLine("...............................................................");
             //task3
+            Console.WriteLine();
             Console.WriteLine("task3");
+            Console.WriteLine();
+            Console.WriteLine("food");
+            Console.WriteLine();
             string[] foods = { "pasta", "kabseh", "banana", "mansaf", "futetchenni" };
             foreach (string food in foods)
             {
                 Console.WriteLine(food);
             }
+            Console.WriteLine();
+            Console.WriteLine("sport");
+            Console.WriteLine();
             string[] sports = { "football", "basketball", "tennis" };
             foreach (string sport in sports)
             {
                 Console.WriteLine(sport);
             }
+            Console.WriteLine();
+            Console.WriteLine("movie");
+            Console.WriteLine();
             string[] movies = { "princess", "fast and ferious", "the boss", "cindrella"};
             foreach (string movie in movies)
             {
