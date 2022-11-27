@@ -48,16 +48,6 @@ namespace _27._11._2022
             }
         }
         
-        //public static void print(int my_age,string my_gender,string my_name,string my_email,int my_id,int my_phonenumber)
-        //{
-
-        //    Console.WriteLine(my_age+ my_gender + my_name + my_email + my_id + my_phonenumber);
-            
-        //}
-        
-
-
-
         static void Main(string[] args)
         {
             Account Nsreen = new Account(26,"Female","Nsreen","nsreendaraghmeh@yahoo.com",22, "0799374127");
