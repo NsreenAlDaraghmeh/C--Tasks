@@ -167,30 +167,30 @@ namespace ConsoleApp1
 
         static void Main(string[] args)
         {
-            //task1
-            Console.WriteLine("task1");
-            Mymethod();
-            //task2
-            Console.WriteLine("task2");
-            Mymethod2();
-            //task3
-            Console.WriteLine("task3");
-            getYears();
-            //task4
-            Console.WriteLine("task4");
-            Console.WriteLine("Inter age in years");
-            int age1 = Convert.ToInt32(Console.ReadLine());
-            Console.Write("age in days : ");
-            Console.WriteLine(age(age1));
-            //task5
-            Console.WriteLine("task5");
-            //Console.WriteLine("Enter the number of chicken in farm : ");
-            int chicken = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("Enter the number of cows in farm : ");
-            int cows = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("Enter the number of pigs in farm : ");
-            int pigs = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(animals(chicken, cows, pigs));
+            //    //task1
+            //    Console.WriteLine("task1");
+            //    Mymethod();
+            //    //task2
+            //    Console.WriteLine("task2");
+            //    Mymethod2();
+            //    //task3
+            //    Console.WriteLine("task3");
+            //    getYears();
+            //    //task4
+            //    Console.WriteLine("task4");
+            //    Console.WriteLine("Inter age in years");
+            //    int age1 = Convert.ToInt32(Console.ReadLine());
+            //    Console.Write("age in days : ");
+            //    Console.WriteLine(age(age1));
+            //    //task5
+            //    Console.WriteLine("task5");
+            //    //Console.WriteLine("Enter the number of chicken in farm : ");
+            //    int chicken = Convert.ToInt32(Console.ReadLine());
+            //    //Console.WriteLine("Enter the number of cows in farm : ");
+            //    int cows = Convert.ToInt32(Console.ReadLine());
+            //    //Console.WriteLine("Enter the number of pigs in farm : ");
+            //    int pigs = Convert.ToInt32(Console.ReadLine());
+            //    Console.WriteLine(animals(chicken, cows, pigs));
             //task6
             Console.WriteLine("task6");
             string username = (Console.ReadLine());
@@ -219,7 +219,9 @@ namespace ConsoleApp1
             Console.WriteLine("input a sentence :");
             string f = Console.ReadLine();
             Console.WriteLine(words(f));
+        
         }
+
     } 
 
     
