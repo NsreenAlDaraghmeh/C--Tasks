@@ -1,0 +1,8 @@
+C:\Users\S\C--Tasks\oop_tasks\29.11.2022\29.11.2022\29.11.2022\bin\Debug\29.11.2022.exe.config
+C:\Users\S\C--Tasks\oop_tasks\29.11.2022\29.11.2022\29.11.2022\bin\Debug\29.11.2022.exe
+C:\Users\S\C--Tasks\oop_tasks\29.11.2022\29.11.2022\29.11.2022\bin\Debug\29.11.2022.pdb
+C:\Users\S\C--Tasks\oop_tasks\29.11.2022\29.11.2022\29.11.2022\obj\Debug\29.11.2022.csproj.AssemblyReference.cache
+C:\Users\S\C--Tasks\oop_tasks\29.11.2022\29.11.2022\29.11.2022\obj\Debug\29.11.2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\S\C--Tasks\oop_tasks\29.11.2022\29.11.2022\29.11.2022\obj\Debug\29.11.2022.csproj.CoreCompileInputs.cache
+C:\Users\S\C--Tasks\oop_tasks\29.11.2022\29.11.2022\29.11.2022\obj\Debug\29.11.2022.exe
+C:\Users\S\C--Tasks\oop_tasks\29.11.2022\29.11.2022\29.11.2022\obj\Debug\29.11.2022.pdb
