@@ -76,8 +76,89 @@ namespace _29._11._2022
         }
     }
 
-    abstract class Car
+    interface ICar
+
     {
 
+         void StartEngine();
+         void StopEngine();
+         void OpenDoor();
+         void CloseDoor();
+         void Honk();
+         void IncreaseSpeed();
+         void DecreaseSpeed();
+         void Breaks();
+         void OpenWindow();
+         void CloseWindow();
+         void AdjustSeat();
+         void CleanGlass();
+         void ChangeGear();
+    }
+    class Toyota : ICar
+    {
+        public void AdjustSeat()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Breaks()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void ChangeGear()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void CleanGlass()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void CloseDoor()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void CloseWindow()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void DecreaseSpeed()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Honk()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void IncreaseSpeed()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void OpenDoor()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void OpenWindow()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void StartEngine()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void StopEngine()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
